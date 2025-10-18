@@ -1,0 +1,96 @@
+﻿.meta-container {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.meta-item {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    max-width: max-content;
+    flex: 1 1 200px;
+}
+
+.meta-item.chip {
+    padding: 0 1.3rem;
+    height: 34px;
+    line-height: 34px;
+}
+
+.price {
+    margin-left: auto;
+    text-align: right;
+    padding-right: 2rem;
+    min-width: 120px;
+}
+
+.game-form {
+    margin-top: 2rem;
+}
+
+.input-field {
+    margin-bottom: 2.5rem;
+}
+
+select {
+    border: 1px solid #e0e0e0 !important;
+    border-radius: 20px;
+    padding: 0 1.5rem;
+    height: 45px;
+}
+
+.meta-container {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+}
+
+.price input {
+    text-align: left;
+    padding-right: 1.5rem !important;
+}
+
+
+.forms-wrapper {
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.input-meta-item {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex: 1 1 200px;
+}
+
+.form-container {
+    min-width: 400px;
+    flex: 1;
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.input-field input:not([type=checkbox]):not([type=radio]),
+.input-field textarea {
+    text-align: left !important;
+    padding: 0.8rem 0;
+    border-bottom: 2px solid #ddd !important;
+}
+
+.input-field label {
+    color: #666;
+    font-size: 0.95rem;
+}
+
+.btn {
+    margin: 0 0.5rem;
+    padding: 0 1.5rem;
+    text-transform: none;
+}

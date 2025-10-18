@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "KwBP59JaY9Ph9NE0754rrhGGvxh4ixsIUPr5XWvO4ik=",
+  "Source": "Demo_Web_API_Front",
+  "BasePath": "_content/Demo_Web_API_Front",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Demo_Web_API_Front\\wwwroot",
+      "Source": "Demo_Web_API_Front",
+      "ContentRoot": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\",
+      "BasePath": "_content/Demo_Web_API_Front",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\css\\materialize.min.css",
+      "SourceId": "Demo_Web_API_Front",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\",
+      "BasePath": "_content/Demo_Web_API_Front",
+      "RelativePath": "css/materialize.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b0njscohfp",
+      "Integrity": "OweaP/Ic6rsV+lysfyS4h+LM6sRwuO3euTYfr6M124g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\materialize.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\css\\site.css",
+      "SourceId": "Demo_Web_API_Front",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\",
+      "BasePath": "_content/Demo_Web_API_Front",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "niym9pljyg",
+      "Integrity": "wephmWLqsRbVEs98OzP4hGBobh+q/8xNG0zUqVeNItc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\index.html",
+      "SourceId": "Demo_Web_API_Front",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\",
+      "BasePath": "_content/Demo_Web_API_Front",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j2oplc0782",
+      "Integrity": "G+uPWisvcfRbytmEUga5Bkw6BhelwBhQxk04g78/mKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\js\\materialize.min.js",
+      "SourceId": "Demo_Web_API_Front",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\",
+      "BasePath": "_content/Demo_Web_API_Front",
+      "RelativePath": "js/materialize.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vjse67p4qz",
+      "Integrity": "9aWZlbcIvNSnb4BWaUYlFNGylNeTWUL/yffW/3Dbk/o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\materialize.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\js\\site.js",
+      "SourceId": "Demo_Web_API_Front",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\",
+      "BasePath": "_content/Demo_Web_API_Front",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "anf0jw26jo",
+      "Integrity": "NmLSOBpi9zxVIu0uYtjHDPHNmEfE7lAo/Sik2AxYdhE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/materialize.min.b0njscohfp.css",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\css\\materialize.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OweaP/Ic6rsV+lysfyS4h+LM6sRwuO3euTYfr6M124g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Sep 2018 16:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b0njscohfp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/materialize.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OweaP/Ic6rsV+lysfyS4h+LM6sRwuO3euTYfr6M124g="
+        }
+      ]
+    },
+    {
+      "Route": "css/materialize.min.css",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\css\\materialize.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OweaP/Ic6rsV+lysfyS4h+LM6sRwuO3euTYfr6M124g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Sep 2018 16:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OweaP/Ic6rsV+lysfyS4h+LM6sRwuO3euTYfr6M124g="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wephmWLqsRbVEs98OzP4hGBobh+q/8xNG0zUqVeNItc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 02:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wephmWLqsRbVEs98OzP4hGBobh+q/8xNG0zUqVeNItc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.niym9pljyg.css",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wephmWLqsRbVEs98OzP4hGBobh+q/8xNG0zUqVeNItc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 02:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "niym9pljyg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wephmWLqsRbVEs98OzP4hGBobh+q/8xNG0zUqVeNItc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G+uPWisvcfRbytmEUga5Bkw6BhelwBhQxk04g78/mKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 16:25:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G+uPWisvcfRbytmEUga5Bkw6BhelwBhQxk04g78/mKo="
+        }
+      ]
+    },
+    {
+      "Route": "index.j2oplc0782.html",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G+uPWisvcfRbytmEUga5Bkw6BhelwBhQxk04g78/mKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 16:25:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2oplc0782"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G+uPWisvcfRbytmEUga5Bkw6BhelwBhQxk04g78/mKo="
+        }
+      ]
+    },
+    {
+      "Route": "js/materialize.min.js",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\js\\materialize.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9aWZlbcIvNSnb4BWaUYlFNGylNeTWUL/yffW/3Dbk/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Sep 2018 16:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9aWZlbcIvNSnb4BWaUYlFNGylNeTWUL/yffW/3Dbk/o="
+        }
+      ]
+    },
+    {
+      "Route": "js/materialize.min.vjse67p4qz.js",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\js\\materialize.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9aWZlbcIvNSnb4BWaUYlFNGylNeTWUL/yffW/3Dbk/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Sep 2018 16:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjse67p4qz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/materialize.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9aWZlbcIvNSnb4BWaUYlFNGylNeTWUL/yffW/3Dbk/o="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.anf0jw26jo.js",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NmLSOBpi9zxVIu0uYtjHDPHNmEfE7lAo/Sik2AxYdhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 16:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "anf0jw26jo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NmLSOBpi9zxVIu0uYtjHDPHNmEfE7lAo/Sik2AxYdhE="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Danil\\OneDrive\\Рабочий стол\\projects\\Demo_Web_API_Front (4)\\Demo_Web_API_Front\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NmLSOBpi9zxVIu0uYtjHDPHNmEfE7lAo/Sik2AxYdhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 16:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NmLSOBpi9zxVIu0uYtjHDPHNmEfE7lAo/Sik2AxYdhE="
+        }
+      ]
+    }
+  ]
+}
